@@ -1,5 +1,6 @@
-# Book Extract Only
 
+# Book Extract Only
+## Used AI tools for code generation
 This project extracts frames from video files, lets you select book covers, and sends the selected images to a local OpenAI-compatible model to extract metadata such as title, author, publisher, ISBN, and notes.
 
 ## Requirements
